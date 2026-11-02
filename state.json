@@ -28,14 +28,14 @@
     "14360": {
       "merged_at": "2026-11-02T19:49:10Z",
       "message_id": "1566961890335133837"
+    },
+    "14362": {
+      "merged_at": "2026-11-02T19:49:16Z",
+      "message_id": "1566961903966887998"
     }
   },
-  "heartbeat_at": "2026-11-02T23:47:07.541883Z",
-  "pending": {
-    "merged_at": "2026-11-02T19:49:16Z",
-    "number": 14362,
-    "prepared_at": "2026-11-02T23:47:09.181560Z"
-  },
+  "heartbeat_at": "2026-11-02T23:47:10.812398Z",
+  "pending": null,
   "upstream": "boykopovar/AnyPS5",
   "version": 1
 }
