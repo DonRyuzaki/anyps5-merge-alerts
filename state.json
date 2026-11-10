@@ -91,7 +91,11 @@
     }
   },
   "heartbeat_at": "2026-11-09T20:02:00.913698Z",
-  "pending": null,
+  "pending": {
+    "merged_at": "2026-11-10T05:15:03Z",
+    "number": 15358,
+    "prepared_at": "2026-11-10T05:32:17.463809Z"
+  },
   "upstream": "boykopovar/AnyPS5",
   "version": 1
 }
