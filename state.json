@@ -105,17 +105,17 @@
       "merged_at": "2026-11-11T00:42:28Z",
       "message_id": "1569875396445601930"
     },
+    "16633": {
+      "merged_at": "2026-11-11T16:03:21Z",
+      "message_id": "1570107003664076872"
+    },
     "16634": {
       "merged_at": "2026-11-11T09:02:54Z",
       "message_id": "1570001398374862901"
     }
   },
-  "heartbeat_at": "2026-11-11T11:04:37.770274Z",
-  "pending": {
-    "merged_at": "2026-11-11T16:03:21Z",
-    "number": 16633,
-    "prepared_at": "2026-11-11T16:04:39.110240Z"
-  },
+  "heartbeat_at": "2026-11-11T16:04:41.013072Z",
+  "pending": null,
   "upstream": "boykopovar/AnyPS5",
   "version": 1
 }
