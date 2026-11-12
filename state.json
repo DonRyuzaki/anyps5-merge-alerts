@@ -232,14 +232,14 @@
     "18044": {
       "merged_at": "2026-11-12T07:34:20Z",
       "message_id": "1570383591345754173"
+    },
+    "18045": {
+      "merged_at": "2026-11-12T07:34:42Z",
+      "message_id": "1570383600736542721"
     }
   },
-  "heartbeat_at": "2026-11-12T10:23:44.585056Z",
-  "pending": {
-    "merged_at": "2026-11-12T07:34:42Z",
-    "number": 18045,
-    "prepared_at": "2026-11-12T10:23:45.700716Z"
-  },
+  "heartbeat_at": "2026-11-12T10:23:46.821580Z",
+  "pending": null,
   "upstream": "boykopovar/AnyPS5",
   "version": 1
 }
