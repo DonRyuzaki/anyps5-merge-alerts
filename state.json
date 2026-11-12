@@ -208,14 +208,14 @@
     "18018": {
       "merged_at": "2026-11-12T07:18:26Z",
       "message_id": "1570383524488290374"
+    },
+    "18038": {
+      "merged_at": "2026-11-12T07:19:55Z",
+      "message_id": "1570383535964037204"
     }
   },
-  "heartbeat_at": "2026-11-12T10:23:28.643998Z",
-  "pending": {
-    "merged_at": "2026-11-12T07:19:55Z",
-    "number": 18038,
-    "prepared_at": "2026-11-12T10:23:30.311230Z"
-  },
+  "heartbeat_at": "2026-11-12T10:23:31.461969Z",
+  "pending": null,
   "upstream": "boykopovar/AnyPS5",
   "version": 1
 }
